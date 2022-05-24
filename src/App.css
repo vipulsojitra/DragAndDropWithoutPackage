@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.dragAndDropContainer{
+    display: flex;
+    justify-content: space-between;
+    border: 10px solid rgb(167, 187, 199);
+    cursor: grab;
+    width: 400px;
+    padding: 10px;
+    margin: 10px;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
